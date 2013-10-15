@@ -22,7 +22,8 @@ layouts =
 tags = {}
 if screen.count() == 1 then
     tags1_1 = {
-              names  = { " ➀ ", " ➁ ", " ➂ ", " ➃ ", " ➄ ", " ➅ ", " ➆" },
+              names  = { " remote ", " browser ", " mail ", " shell " },
+--            names  = { " ➀ ", " ➁ ", " ➂ ", " ➃ ", " ➄ ", " ➅ ", " ➆" },
 --	      names  = { " 1 ", " 2 ", " 3 ", " 4 ", " 5 ", " 6 ", " 7 ", " 8 ", " 9 " },
               layout = { layouts[2], layouts[2], layouts[2], layouts[4], layouts[2], layouts[2], layouts[3], layouts[2], layouts[2] }
               }
