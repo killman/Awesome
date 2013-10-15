@@ -1,5 +1,4 @@
 -- AWESOME CONFIG
--- Author: Tomas Pruzina (tomas.pruzina@gmail.com)
 -- Description: Awesome config, tested on Gentoo's awesome 3.5.1
 
 -- Standard awesome library
