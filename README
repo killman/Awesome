@@ -1,8 +1,6 @@
-
-Powered by dkcorp.ec
+Install
 ________________________________________________________
 
-cd $HOME/.config/awesome
+cd ~/.config/awesome
 
 git clone https://github.com/Killman/Awesome.git
-________________________________________________________
