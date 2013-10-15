@@ -1,6 +1,4 @@
 Install
-________________________________________________________
 
 cd ~/.config/awesome
-
 git clone https://github.com/Killman/Awesome.git
